@@ -1,0 +1,4 @@
+import os
+
+print(os.path.exists("data"))
+df = pd.read_csv(r"C:\Users\pranc\Desktop\ML_Project\data\stud.csv")
